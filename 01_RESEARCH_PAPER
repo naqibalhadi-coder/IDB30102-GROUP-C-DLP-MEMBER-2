@@ -1,0 +1,12 @@
+# Research Papers
+
+This folder contains research-paper information supporting the literature review for the proposed Multi-Layered Data Loss Prevention (DLP) Framework.
+
+The papers focus on:
+- Data Loss Prevention
+- Insider Threat Detection
+- User and Entity Behavior Analytics (UEBA)
+- Automated Sensitive Data Classification
+- Context-Aware Data Detection
+
+Each paper is analysed based on its research problem, methodology, dataset/tools, findings, limitations, and relevance to the proposed research.
